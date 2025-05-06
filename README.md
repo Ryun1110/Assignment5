@@ -42,8 +42,7 @@ cl /O2 /std:c++17 sphere_scene.cpp /Fe:rasterizer.exe
 rasterizer.exe
 Windows (MinGW‑w64) or Linux / macOS (GCC / Clang)
 bash
-복사
-편집
+
 g++ -O2 -std=c++17 sphere_scene.cpp -o rasterizer
 ./rasterizer
 No external dependencies – only the C++17 standard library.
@@ -74,10 +73,4 @@ Texture mapping	Add (u,v) coords, sample 2‑D image
 Back‑face culling	Skip triangles whose screen‑space normal faces away
 Clipping	Implement Sutherland–Hodgman or homogeneous clipping
 
-License
-txt
-복사
-편집
-MIT License
 
-Copyright (c) 2025 <your‑name>
