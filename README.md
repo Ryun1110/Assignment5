@@ -1,4 +1,4 @@
-# Software Rasterizer – Sphere Scene (CPU‑only)
+# Software Rasterizer – Sphere Scene 
 
 > **Coursework**: Implementing a full software rasterizer without any
 > GPU / hardware acceleration.
